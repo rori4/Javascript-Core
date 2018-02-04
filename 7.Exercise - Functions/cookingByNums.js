@@ -21,5 +21,5 @@ function cookingByNums(arr) {
   }
 }
 
-let arr = [324, "chop", "chop", "chop", "chop", "chop"];
+let arr = [9, "chop", "chop", "chop", "chop", "chop"];
 cookingByNums(arr);
